@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png" alt="react beautiful dnd logo" />
 </p>
-<h1 align="center">react-beautiful-dnd <small><sup>(rbd)</sup></small></h1>
+<h1 align="center">react-beautiful-dnd-next <small><sup>(rbd)</sup></small></h1>
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 - An illustration of project management tool inspired by [Clubhouse.io](https://clubhouse.io) 
 
 ## Basic setup 
-- [Next.js](https://nextjs.org/) with [React beautiful drag and drop](https://github.com/atlassian/react-beautiful-dnd)
+- [Next.js](https://nextjs.org/) with [React beautiful drag and drop](https://www.npmjs.com/package/react-beautiful-dnd-next)
 
 ## Data Format:
 - json
