@@ -27,8 +27,8 @@
 - json
 
 ## Fonts : 
-- 'Comfortaa',cursive
-- 'Roboto',sans-serif
+- [ Comfortaa, cursive](https://fonts.google.com/specimen/Comfortaa)
+- [ Roboto, sans-serif](https://fonts.google.com/specimen/Roboto)
 
 ## Usage
 
