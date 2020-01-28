@@ -10,7 +10,7 @@ const allData = {
                         "category":"API BETA Q3 2020",
                         "title": "Fix issue affecting line breaks",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar8.bmp",
                         "issueId": "#2219",
                         "team": "FE",
@@ -18,7 +18,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(168, 171, 178, 0.1)',
-                            borderLeft :'6px solid #7b8189'
+                            borderLeft :'4px solid #7b8189'
                         },
                         "categStyle":{
                             backgroundColor :'#7b8189'
@@ -32,7 +32,7 @@ const allData = {
                         "category":"PUBLIC BETA",
                         "title": "Fix maintenance banner on mobile view",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar7.bmp",
                         "issueId": "#2219",
                         "team": "BE",
@@ -40,7 +40,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(168, 171, 178, 0.1)',
-                            borderLeft :'6px solid #7b8189'
+                            borderLeft :'4px solid #7b8189'
                         },
                         "categStyle":{
                             backgroundColor :'#7b8189'
@@ -54,7 +54,7 @@ const allData = {
                         "category":"daily digest email",
                         "title": "Apply CSS to half of a Character",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar9.bmp",
                         "issueId": "#2219",
                         "team": "QA",
@@ -62,7 +62,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(168, 171, 178, 0.1)',
-                            borderLeft :'6px solid #7b8189'
+                            borderLeft :'4px solid #7b8189'
                         },
                         "categStyle":{
                             backgroundColor :'#7b8189'
@@ -76,7 +76,7 @@ const allData = {
                         "category":"Private BETA 2020",
                         "title": "Modify the URL without reloading the page",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar1.bmp",
                         "issueId": "#2219",
                         "team": "FE",
@@ -84,7 +84,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(168, 171, 178, 0.1)',
-                            borderLeft :'6px solid #7b8189'
+                            borderLeft :'4px solid #7b8189'
                         },
                         "categStyle":{
                             backgroundColor :'#7b8189'
@@ -98,7 +98,7 @@ const allData = {
                         "category":"visual improvements",
                         "title": "Give text a transparent background",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar3.bmp",
                         "issueId": "#2219",
                         "team": "API",
@@ -106,7 +106,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(168, 171, 178, 0.1)',
-                            borderLeft :'6px solid #7b8189'
+                            borderLeft :'4px solid #7b8189'
                         },
                         "categStyle":{
                             backgroundColor :'#7b8189'
@@ -127,7 +127,7 @@ const allData = {
                         "category":"accessibility",
                         "title": "Vertically center text with CSS",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar7.bmp",
                         "issueId": "#2219",
                         "team": "FE",
@@ -135,7 +135,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(172, 146, 236, 0.1)',
-                            borderLeft :'6px solid #967adc'
+                            borderLeft :'4px solid #967adc'
                         },
                         "categStyle":{
                             backgroundColor :'#967adc'
@@ -149,7 +149,7 @@ const allData = {
                         "category":"micro interactions",
                         "title": "Do vertically alignment of the texts",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar9.bmp",
                         "issueId": "#2219",
                         "team": "QA",
@@ -157,7 +157,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(172, 146, 236, 0.1)',
-                            borderLeft :'6px solid #967adc'
+                            borderLeft :'4px solid #967adc'
                         },
                         "categStyle":{
                             backgroundColor :'#967adc'
@@ -171,7 +171,7 @@ const allData = {
                         "category":"marketing Q3 2020",
                         "title": "Align Elements in Middle manner",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar1.bmp",
                         "issueId": "#2219",
                         "team": "API",
@@ -179,7 +179,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(172, 146, 236, 0.1)',
-                            borderLeft :'6px solid #967adc'
+                            borderLeft :'4px solid #967adc'
                         },
                         "categStyle":{
                             backgroundColor :'#967adc'
@@ -200,7 +200,7 @@ const allData = {
                         "category":"accessibility",
                         "title": "Poor or dated visual design",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar3.bmp",
                         "issueId": "#2219",
                         "team": "FE",
@@ -208,7 +208,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(94, 193, 229, 0.1)',
-                            borderLeft :'6px solid #38afda'
+                            borderLeft :'4px solid #38afda'
                         },
                         "categStyle":{
                             backgroundColor :'#38afda'
@@ -222,7 +222,7 @@ const allData = {
                         "category":"Private BETA q3 2020",
                         "title": "Slow upload speed",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar6.bmp",
                         "issueId": "#2219",
                         "team": "API",
@@ -230,7 +230,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(94, 193, 229, 0.1)',
-                            borderLeft :'6px solid #38afda'
+                            borderLeft :'4px solid #38afda'
                         },
                         "categStyle":{
                             backgroundColor :'#38afda'
@@ -244,7 +244,7 @@ const allData = {
                         "category":"public BETA Q3 2020",
                         "title": "Confusing user journey",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar9.bmp",
                         "issueId": "#2219",
                         "team": "BE",
@@ -252,7 +252,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(94, 193, 229, 0.1)',
-                            borderLeft :'6px solid #38afda'
+                            borderLeft :'4px solid #38afda'
                         },
                         "categStyle":{
                             backgroundColor :'#38afda'
@@ -266,7 +266,7 @@ const allData = {
                         "category":"acessibility",
                         "title": "Low standard of written content",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar8.bmp",
                         "issueId": "#2219",
                         "team": "QA",
@@ -274,7 +274,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(94, 193, 229, 0.1)',
-                            borderLeft :'6px solid #38afda'
+                            borderLeft :'4px solid #38afda'
                         },
                         "categStyle":{
                             backgroundColor :'#38afda'
@@ -288,7 +288,7 @@ const allData = {
                         "category":"public BETA Q3 2020",
                         "title": "Poor standard of SEO",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar6.bmp",
                         "issueId": "#2219",
                         "team": "API",
@@ -296,7 +296,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(94, 193, 229, 0.1)',
-                            borderLeft :'6px solid #38afda'
+                            borderLeft :'4px solid #38afda'
                         },
                         "categStyle":{
                             backgroundColor :'#38afda'
@@ -310,7 +310,7 @@ const allData = {
                         "category":"visual improvement",
                         "title": "Security issues and certification problems",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar3.bmp",
                         "issueId": "#2219",
                         "team": "BE",
@@ -318,7 +318,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(94, 193, 229, 0.1)',
-                            borderLeft :'6px solid #38afda'
+                            borderLeft :'4px solid #38afda'
                         },
                         "categStyle":{
                             backgroundColor :'#38afda'
@@ -340,7 +340,7 @@ const allData = {
                         "category":"integration testing",
                         "title": "Badly integrated",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar1.bmp",
                         "issueId": "#2219",
                         "team": "FE",
@@ -348,7 +348,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(108, 210, 184, 0.1)',
-                            borderLeft :'6px solid #37bc9b'
+                            borderLeft :'4px solid #37bc9b'
                         },
                         "categStyle":{
                             backgroundColor :'#37bc9b'
@@ -362,7 +362,7 @@ const allData = {
                         "category":"public BETA Q3 2020",
                         "title": "Hidden details or no obvious point of contact",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar3.bmp",
                         "issueId": "#2219",
                         "team": "BE",
@@ -370,7 +370,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(108, 210, 184, 0.1)',
-                            borderLeft :'6px solid #37bc9b'
+                            borderLeft :'4px solid #37bc9b'
                         },
                         "categStyle":{
                             backgroundColor :'#37bc9b'
@@ -384,7 +384,7 @@ const allData = {
                         "category":"API BETA Q3 2020",
                         "title": " Lack of on-page optimisation",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar2.bmp",
                         "issueId": "#2219",
                         "team": "API",
@@ -392,7 +392,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(108, 210, 184, 0.1)',
-                            borderLeft :'6px solid #37bc9b'
+                            borderLeft :'4px solid #37bc9b'
                         },
                         "categStyle":{
                             backgroundColor :'#37bc9b'
@@ -406,7 +406,7 @@ const allData = {
                         "category":"accessibility",
                         "title": "Lack of call to actions",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar3.bmp",
                         "issueId": "#2219",
                         "team": "QA",
@@ -414,7 +414,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(108, 210, 184, 0.1)',
-                            borderLeft :'6px solid #37bc9b'
+                            borderLeft :'4px solid #37bc9b'
                         },
                         "categStyle":{
                             backgroundColor :'#37bc9b'
@@ -435,7 +435,7 @@ const allData = {
                         "category":"micro integrations",
                         "title": "Little or no social sharing options",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar4.bmp",
                         "issueId": "#2219",
                         "team": "API",
@@ -443,7 +443,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(89, 208, 89, 0.1)',
-                            borderLeft :'6px solid #8cc152'
+                            borderLeft :'4px solid #8cc152'
                         },
                         "categStyle":{
                             backgroundColor :'#8cc152'
@@ -457,7 +457,7 @@ const allData = {
                         "category":"private beta q3 2020",
                         "title": "Self-managing time-consuming website tasks",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar8.bmp",
                         "issueId": "#2219",
                         "team": "BE",
@@ -465,7 +465,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(89, 208, 89, 0.1)',
-                            borderLeft :'6px solid #8cc152'
+                            borderLeft :'4px solid #8cc152'
                         },
                         "categStyle":{
                             backgroundColor :'#8cc152'
@@ -479,7 +479,7 @@ const allData = {
                         "category":"integration testing",
                         "title": "Lack of website metrics",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar1.bmp",
                         "issueId": "#2219",
                         "team": "QA",
@@ -487,7 +487,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(89, 208, 89, 0.1)',
-                            borderLeft :'6px solid #8cc152'
+                            borderLeft :'4px solid #8cc152'
                         },
                         "categStyle":{
                             backgroundColor :'#8cc152'
@@ -501,7 +501,7 @@ const allData = {
                         "category":"Public BETA Q3 2020",
                         "title": "Poor user experience on mobile devices",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar6.bmp",
                         "issueId": "#2219",
                         "team": "FE",
@@ -509,7 +509,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(89, 208, 89, 0.1)',
-                            borderLeft :'6px solid #8cc152'
+                            borderLeft :'4px solid #8cc152'
                         },
                         "categStyle":{
                             backgroundColor :'#8cc152'
@@ -523,7 +523,7 @@ const allData = {
                         "category":"marketing BETA Q3 2020",
                         "title": "Security measures are not up to date",
                         "user": "",
-                        "description": "This is card one",
+                        "description": "Start with a “coming soon” screen that you can use to briefly explain the issue.",
                         "assigneUrl":"/static/img/avatar5.bmp",
                         "issueId": "#2219",
                         "team": "QA",
@@ -531,7 +531,7 @@ const allData = {
                         "dueDate": "DEC 26",
                         "cardStyle": {
                             backgroundColor :'rgba(89, 208, 89, 0.1)',
-                            borderLeft :'6px solid #8cc152'
+                            borderLeft :'4px solid #8cc152'
                         },
                         "categStyle":{
                             backgroundColor :'#8cc152'
